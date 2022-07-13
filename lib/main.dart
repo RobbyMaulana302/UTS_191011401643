@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         ),
         body: GridView.count(
           // mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-          crossAxisCount: 4,
+          crossAxisCount: 3,
           children: [
             // for (int i = 1; i <= 12; i++)
             Container(
